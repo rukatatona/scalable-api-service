@@ -20,3 +20,8 @@ This project showcases backend API development and scalable system design.
 
 ## About Me
 Software Engineer focused on backend systems, APIs, and scalable architecture.
+## Future Improvements
+
+- Add real-time streaming support
+- Improve scalability with distributed processing
+- Add monitoring and data quality checks
